@@ -26,7 +26,7 @@ var viewer = pannellum.viewer('panorama', {
         "maxPitch": 25,
         "yaw":-20,
         "compass":true,
-        "northOffset":-20
+        "northOffset":20
       },
 
       "image-3": {
